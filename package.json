@@ -1,5 +1,5 @@
 {
-  "name": "jss",
+  "name": "hc-jss",
   "version": "0.6.0",
   "devDependencies": {
     "gulp": "~3.5.6",
